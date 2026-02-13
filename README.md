@@ -71,3 +71,15 @@ If you found this project helpful or interesting, feel free to connect with me o
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
+
+---
+
+## 👩‍💻 Author
+
+**Darpana Chauhan**  
+Aspiring Data Scientist  
+📌 GitHub: https://github.com/darpana-chauhan
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
