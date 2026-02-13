@@ -17,7 +17,7 @@ The dashboard provides insights into:
 
 Click below to watch the dashboard walkthrough:
 
-🔗 [Watch Project Demo Video](https://github.com/user-attachments/assets/215dbfa5-d6e2-4bd4-9ae5-1319e0bb922c)
+🔗 https://github.com/user-attachments/assets/215dbfa5-d6e2-4bd4-9ae5-1319e0bb922c
 
 ---
 
