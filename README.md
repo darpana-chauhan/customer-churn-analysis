@@ -17,6 +17,10 @@ The dashboard provides insights into:
 
 <video src="https://github.com/darpana-chauhan/customer-churn-analysis/blob/main/dashboard%20video.mp4" controls width="700"></video>
 
+https://github.com/user-attachments/assets/215dbfa5-d6e2-4bd4-9ae5-1319e0bb922c
+
+
+
 If the video does not load, you can download it directly from the repository.
 
 ---
